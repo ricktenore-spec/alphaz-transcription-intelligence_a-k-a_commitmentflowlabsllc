@@ -1,0 +1,14 @@
+app.py:
+"""
+ALPHAZv2.5 Transcription Intelligence
+Prototype workspace initialized.
+"""
+
+print("Prototype workspace initialized")
+print("Transcription intelligence pipeline — early experimentation")
+
+# Placeholder for future pipeline components
+# - Deepgram transcription
+# - OpenAI analysis
+# - Signal detection
+# - Streamlit dashboard
